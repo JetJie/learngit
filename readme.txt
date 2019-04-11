@@ -4,4 +4,4 @@ Git is good.
 git ist auch gut.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
-Git tracks changes.
+Git tracks changes of files.
